@@ -7,7 +7,7 @@
 
 # 💻 Free AI Chat in Cursor IDE Using OpenRouter
 
-This is a guide for y'all that want to use that AI chat feature in IDE's like **Cursor** and **Windsurf** without breaking the bank and having a limit amount of prompts from premium models that still spit out the same outputs as free-models.
+This is a guide for y'all that want to use that AI chat feature in IDE's like **Cursor** and **Windsurf** without breaking the bank and having a limited amount of prompts from premium models that spit out the same outputs as free-models.
 
 I will be using ai to grammatically clean up the steps below so you can read what I type out coherently
 ---
