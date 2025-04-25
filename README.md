@@ -31,7 +31,7 @@ I will be using ai to grammatically clean up the steps below so you can read wha
 
 2. Scroll to the **OpenAI API Key** section. 
 
-![models_cursor_settings](models_cursor_settings.PNG)
+![api_key_models_cursor_settings](api_key_models_cursor_settings.PNG)
 
 3. In a separate tab, go to [OpenRouter.ai](https://openrouter.ai).
 
