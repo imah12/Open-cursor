@@ -36,15 +36,19 @@ I will be using ai to grammatically clean up the steps below so you can read wha
 3. In a separate tab, go to [OpenRouter.ai](https://openrouter.ai).
 
 4. Hover over the dropdown in the top-right and select **Keys**.
+
 ![openrouter_menu](openrouter_menu.PNG)
 
 5. Create a new API key:
    - Name it anything you want.
    - Leave the credit limit **blank** (we're not spending money).
+
 ![openrouter_cursorkey1](openrouter_cursorkey1.PNG)
 
 6. Copy the API key. {Store anywhere you want fam, or maybe practice them security habits}
+
 ![openrouter_cursorkey2](openrouter_cursorkey2.PNG)
+
 7. Back in Cursor:
    - Paste your API key into the **OpenAI API Key** field.
    - For the **Base URL**, use:
@@ -53,6 +57,7 @@ I will be using ai to grammatically clean up the steps below so you can read wha
      https://openrouter.ai/api/v1
      ```
 ![place_key_and_url](place_key_and_url.PNG)
+
 8. Click verify — this should only take a few seconds. {if it doesn't work and u typed in your key, check your spelling! }
 
 ---
@@ -60,21 +65,30 @@ I will be using ai to grammatically clean up the steps below so you can read wha
 ## 🤖 Choosing Free Models [The Fun Part]
 
 1. On OpenRouter, go to the **Models** tab.
+
 ![openrouter_models1](openrouter_models1.PNG)
+
 2. On the sidebar, adjust the **Prompt Pricing** slider to `FREE`.
 
 3. Choose any model you like. In this case for various reasons we're choosing Deepseek r1(free) *cough*, *cough*:  
    Type in and press on **deepseek r1 free**
+
 ![openrouter_models2](openrouter_models2.PNG)
+
 5. Copy the model code. [Below the Title DeepSeek: R1 (free)]
 
 6. Back in Cursor:
    - Click **Add Model**.
    - Paste the model code into the name field.
+
 ![add_model](add_model.PNG)
+
 7. **Bonus feature** Repeat to add as many free models as you want.
 
-Thats IT!!!
+**Models I use and reccommend**
+
+The Free ones hahahahaha... **moving on!**
+
 ---
 
 ## 💡 NOW Test the Setup!!!
