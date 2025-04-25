@@ -107,7 +107,7 @@ The Free ones hahahahaha... **moving on!**
    **It will take a second as R1 is a reasoning model**
    
 6. Now lets break it, remove a quotation mark from the end of hello world.
-![code_error](code_error.PNG)
+![code_error](code_error.png)
 7. Ask your ai chhat, `why is my code not working?`
 ![code_error_response](code_error_response.PNG)
 8. It should tell you about a syntax error due to an unclosed string literal **you didn't close the quote**
